@@ -26,6 +26,8 @@ Github Codespaces & vscode devcontainer templates
 
 [devcontainer Electron](https://github.com/kxkx5150/devcontainer-Electron-template)
 
+[devcontainer Julia](https://github.com/kxkx5150/devcontainer-Julia-template)
+
 [devcontainer App](https://github.com/kxkx5150/devcontainer-App-template)
 
 
@@ -51,6 +53,8 @@ Github Codespaces & vscode devcontainer templates
 [Codespaces Python](https://github.com/kxkx5150/Codespaces-Python-template)
 
 [Codespaces Electron](https://github.com/kxkx5150/Codespaces-Electron-template)
+
+[Codespaces Julia](https://github.com/kxkx5150/Codespaces-Julia-template)
 
 [Codespaces GUI App](https://github.com/kxkx5150/Codespaces-GUI-App-template)
 
