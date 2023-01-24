@@ -28,8 +28,21 @@ Github Codespaces & vscode devcontainer templates
 
 [devcontainer Julia](https://github.com/kxkx5150/devcontainer-Julia-template)
 
-[devcontainer App](https://github.com/kxkx5150/devcontainer-App-template)
+[devcontainer Haskell](https://github.com/kxkx5150/devcontainer-Haskell-template)
 
+[devcontainer Elixir](https://github.com/kxkx5150/devcontainer-Elixir-template)
+
+[devcontainer Scala](https://github.com/kxkx5150/devcontainer-Scala-template)
+
+[devcontainer Common Lisp](https://github.com/kxkx5150/devcontainer-Common-Lisp-template)
+
+[devcontainer Clojure](https://github.com/kxkx5150/devcontainer-Clojure-template)
+
+[devcontainer OCaml](https://github.com/kxkx5150/devcontainer-OCaml-template)
+
+[devcontainer-Kotlin](https://github.com/kxkx5150/devcontainer-Kotlin-template)
+
+[devcontainer App](https://github.com/kxkx5150/devcontainer-App-template)
 
 
 <br><br><br>
@@ -55,6 +68,22 @@ Github Codespaces & vscode devcontainer templates
 [Codespaces Electron](https://github.com/kxkx5150/Codespaces-Electron-template)
 
 [Codespaces Julia](https://github.com/kxkx5150/Codespaces-Julia-template)
+
+[Codespaces Haskell](https://github.com/kxkx5150/Codespaces-Haskell-template)
+
+[Codespaces Elixir](https://github.com/kxkx5150/Codespaces-Elixir-template)
+
+[Codespaces Scala](https://github.com/kxkx5150/Codespaces-Scala-template)
+
+[Codespaces Common Lisp](https://github.com/kxkx5150/Codespaces-Common-Lisp-template)
+
+[Codespaces Clojure](https://github.com/kxkx5150/Codespaces-Clojure-template)
+
+[Codespaces OCaml](https://github.com/kxkx5150/Codespaces-OCaml-template)
+
+[Codespaces-Kotlin](https://github.com/kxkx5150/Codespaces-Kotlin-template)
+
+[Codespaces App](https://github.com/kxkx5150/Codespaces-App-template)
 
 [Codespaces GUI App](https://github.com/kxkx5150/Codespaces-GUI-App-template)
 
