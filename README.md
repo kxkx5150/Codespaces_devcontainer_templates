@@ -40,7 +40,7 @@ Github Codespaces & vscode devcontainer templates
 
 [devcontainer OCaml](https://github.com/kxkx5150/devcontainer-OCaml-template)
 
-[devcontainer-Kotlin](https://github.com/kxkx5150/devcontainer-Kotlin-template)
+[devcontainer Kotlin](https://github.com/kxkx5150/devcontainer-Kotlin-template)
 
 [devcontainer App](https://github.com/kxkx5150/devcontainer-App-template)
 
@@ -81,7 +81,7 @@ Github Codespaces & vscode devcontainer templates
 
 [Codespaces OCaml](https://github.com/kxkx5150/Codespaces-OCaml-template)
 
-[Codespaces-Kotlin](https://github.com/kxkx5150/Codespaces-Kotlin-template)
+[Codespaces Kotlin](https://github.com/kxkx5150/Codespaces-Kotlin-template)
 
 [Codespaces App](https://github.com/kxkx5150/Codespaces-App-template)
 
