@@ -83,8 +83,6 @@ Github Codespaces & vscode devcontainer templates
 
 [Codespaces Kotlin](https://github.com/kxkx5150/Codespaces-Kotlin-template)
 
-[Codespaces App](https://github.com/kxkx5150/Codespaces-App-template)
-
 [Codespaces GUI App](https://github.com/kxkx5150/Codespaces-GUI-App-template)
 
 
